@@ -14,21 +14,20 @@
 			],
 			"settings": {
 				"editor.formatOnSave": true,
-				"editor.defaultFormatter": "esbenp.prettier-vscode",
+				"editor.defaultFormatter": null,
 				"[javascript]": {
-					"editor.defaultFormatter": "esbenp.prettier-vscode"
+					"editor.defaultFormatter": null
 				},
 				"[javascriptreact]": {
-					"editor.defaultFormatter": "esbenp.prettier-vscode"
+					"editor.defaultFormatter": null
 				},
 				"[json]": {
-					"editor.defaultFormatter": "esbenp.prettier-vscode"
+					"editor.defaultFormatter": null
 				}
 			}
 		}
 	},
 	"forwardPorts": [5173],
-	"forwardPortsWhere": "localhost",
 	"portsAttributes": {
 		"5173": {
 			"label": "Vite Dev Server",
